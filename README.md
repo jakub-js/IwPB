@@ -1,8 +1,8 @@
 ## Gdzie można studiować Informatykę w Procesach biznesowych?
 
-You can use the [Charakterystyka specjalności](https://jakub-js.github.io/IwPB/downloads.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Charakterystyka specjalności](https://jakub-js.github.io/IwPB/contact.md)
+[Do pobrania](https://jakub-js.github.io/IwPB/downloads.md)
+[Kontakt](https://jakub-js.github.io/IwPB/preferences.md)
 
 ### Markdown
 
