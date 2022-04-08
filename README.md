@@ -1,8 +1,8 @@
 ## Gdzie można studiować Informatykę w Procesach biznesowych?
 
-[Charakterystyka specjalności](https://jakub-js.github.io/IwPB/contact.md)
-[Do pobrania](https://jakub-js.github.io/IwPB/downloads.md)
-[Kontakt](https://jakub-js.github.io/IwPB/preferences.md)
+[Charakterystyka specjalności](./IwPB/contact.html)
+[Do pobrania](./downloads.md)
+[Kontakt](./preferences.md)
 
 ### Markdown
 
