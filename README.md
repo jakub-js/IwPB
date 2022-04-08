@@ -1,6 +1,6 @@
 ## Gdzie można studiować Informatykę w Procesach biznesowych?
 
-[Charakterystyka specjalności](./IwPB/preferences.md)
+[Charakterystyka specjalności](./preferences.md)
 
 [Kontakt](./contact.md)
 
