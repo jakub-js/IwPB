@@ -2,6 +2,6 @@
 
 [Strona główna](./README.md)
 
-[Charakterystyka specjalności](./IwPB/preferences.md)
+[Charakterystyka specjalności](./preferences.md)
 
 [Do pobrania](./downloads.md)
