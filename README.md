@@ -1,12 +1,3 @@
-# IwPB
-Politechnika Poznańska
-Informatyka w Procesach Biznesowych
-Zastosowania Internetu w Biznesie
-
-Zadanie:
-Wykonaj pozycjonowanie witryny na podaną frazę:
-„Gdzie można studiować Informatykę w Procesach biznesowych”
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jakub-js/tmp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
