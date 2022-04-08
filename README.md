@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gdzie można studiować Informatykę w Procesach biznesowych?
 
 You can use the [editor on GitHub](https://github.com/jakub-js/tmp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
