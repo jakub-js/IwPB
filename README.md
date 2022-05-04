@@ -6,4 +6,4 @@
 
 [Do pobrania](./downloads.md)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ka1yLKEUG5wPXdGE5GMMl-SPtVGre_Unt76T3NCKSD6qng/viewform?embedded=true" width="80%" height="650" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ka1yLKEUG5wPXdGE5GMMl-SPtVGre_Unt76T3NCKSD6qng/viewform?embedded=true" width="80%" height="700" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
