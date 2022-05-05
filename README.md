@@ -7,7 +7,6 @@
   <a href="./preferences.md">Charakterystyka specjalności</a>
   <a href="./contact.md">Kontakt</a>
   <a href="./downloads.md">Do pobrania</a>
-  <link rel="canonical" href="./downloads.md" />
 </nav>
 
 <section>
@@ -16,7 +15,7 @@
 
 <article>
   <figure>
-    <img src="./Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.jpg" alt="IwPB">
+    <img src="https://jakub-js.github.io/IwPB/Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.jpg" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
