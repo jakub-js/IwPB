@@ -14,16 +14,14 @@
 
 <article>
   <figure>
-    <img src="pic_trulli.jpg" alt="Trulli">
-    <figcaption>Fig1. - Trulli, Puglia, Italy.</figcaption>
+    <img src="Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.jpg" alt="IwPB">
+    <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
-  <h2>Politechnika Poznańska</h2>
-  <p>Informatka w Procesach Biznesowych</p>
-  <a href="https://www.cs.put.poznan.pl/iwpb/site/">IwPB</a>
-  
+  <h2><a href="https://www.put.poznan.pl/rekrutacja">Politechnika Poznańska</a></h2>
+  <p><a href="https://www.cs.put.poznan.pl/iwpb/site/">Informatka w Procesach Biznesowych</a></p>
 </article>
 
 <footer>
-  <p>Author: Jakub Szczepański</p>
+  <p>Autor: Jakub Szczepański</p>
 </footer>
