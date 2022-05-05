@@ -24,6 +24,20 @@
   
   <p>Specjalność Informatyka w Procesach Biznesowych (IwPB) jest prowadzona jako studia niestacjonarne II stopnia (magisterskie) na Wydziale Informatyki i Telekomunikacji Politechniki Poznańskiej.</p>
   
+  
+  	<div class="yt">
+				<a href="http://youtube.com" target="_blank" class="sociallink">youtube</a>
+		</div>
+		<div class="fb">
+				<a href="http://facebook.com" target="_blank" class="sociallink">facebook</a>
+		</div>
+		<div class="gplus">
+				<a href="http://plus.google.com" target="_blank" class="sociallink">gplus</a>
+		</div>
+		<div class="tw">
+				<a href="http://twitter.com" target="_blank" class="sociallink">twitter</a>			
+		</div>
+  
 </article>
 
 <footer>
