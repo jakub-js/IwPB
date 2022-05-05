@@ -7,6 +7,7 @@
   <a href="./preferences.md">Charakterystyka specjalności</a>
   <a href="./contact.md">Kontakt</a>
   <a href="./downloads.md">Do pobrania</a>
+  <link rel="canonical" href="./downloads.md" />
 </nav>
 
 <section>
