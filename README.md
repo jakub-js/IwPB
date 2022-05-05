@@ -32,8 +32,14 @@
 
 <a href="http://twitter.com" class="sociallink">twitter</a>			
 
+  <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_dhqa"></div>
+  
+  
 </article>
 
 <footer>
   <p>Autor: Jakub Szczepański</p>
 </footer>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-627431c7c313d5c6"></script>
