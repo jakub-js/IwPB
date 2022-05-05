@@ -3,9 +3,9 @@
 </header>
 
 <nav>
-  [Charakterystyka specjalności](./preferences.md)
-  [Kontakt](./contact.md)
-  [Do pobrania](./downloads.md)
+  <a href="./preferences.md">Charakterystyka specjalności</a>
+  <a href="./contact.md">Kontakt</a>
+  <a href="./downloads.md">Do pobrania</a>
 </nav>
 
 <section>
@@ -13,8 +13,17 @@
 </section>
 
 <article>
+  <figure>
+    <img src="pic_trulli.jpg" alt="Trulli">
+    <figcaption>Fig1. - Trulli, Puglia, Italy.</figcaption>
+  </figure>
+  
   <h2>Politechnika Poznańska</h2>
   <p>Informatka w Procesach Biznesowych</p>
+  <a href="https://www.cs.put.poznan.pl/iwpb/site/">IwPB</a>
+  
 </article>
 
-
+<footer>
+  <p>Author: Jakub Szczepański</p>
+</footer>
