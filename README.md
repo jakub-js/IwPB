@@ -15,8 +15,8 @@
 
 <article>
   <figure>
-    ![Book logo](./Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.jpg)
-    <img src="https://jakub-js.github.io/IwPB/Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.jpg" alt="IwPB">
+    ![Book logo](./Gdzie studiować Informatykę w Procesach Biznesowych.jpg)
+    <img src="https://jakub-js.github.io/IwPB/Gdzie studiować Informatykę w Procesach Biznesowych.jpg" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
