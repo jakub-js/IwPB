@@ -1,5 +1,6 @@
 <header>
   <h1>Gdzie można studiować Informatykę w Procesach Biznesowych?</h1>
+  <h2>IwPB</h2>
 </header>
 
 <nav>
