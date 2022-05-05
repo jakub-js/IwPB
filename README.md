@@ -15,7 +15,6 @@
 
 <article>
   <figure>
-
     <img src="https://github.com/jakub-js/IwPB/blob/main/Gdzie%20studiowa%C4%87%20Informatyk%C4%99%20w%20Procesach%20Biznesowych.jpg" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
