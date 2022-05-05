@@ -12,10 +12,10 @@
 <section>
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ka1yLKEUG5wPXdGE5GMMl-SPtVGre_Unt76T3NCKSD6qng/viewform?embedded=true" width="100%" height="700px"     frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 </section>
-
+![Book logo](/Gdzie studiować Informatykę w Procesach Biznesowych.jpg)
 <article>
   <figure>
-    ![Book logo](./Gdzie studiować Informatykę w Procesach Biznesowych.jpg)
+    ![Book logo](/Gdzie studiować Informatykę w Procesach Biznesowych.jpg)
     <img src="https://jakub-js.github.io/IwPB/Gdzie studiować Informatykę w Procesach Biznesowych.jpg" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
