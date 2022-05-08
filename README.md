@@ -4,9 +4,9 @@
 </header>
 
 <nav>
-  <a href="./preferences.md">Charakterystyka specjalności</a>
-  <a href="./contact.md">Kontakt</a>
-  <a href="./downloads.md">Do pobrania</a>
+[Charakterystyka specjalności](./preferences.md)
+[Kontakt](./contact.md)
+[Do pobrania](./downloads.md)
 </nav>
 
 <section>
