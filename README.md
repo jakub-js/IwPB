@@ -1,3 +1,6 @@
+<link rel="canonical" href="https://www.jakub-js.github.io/IwPB/">
+
+
 <header>
   <h1>Gdzie można studiować Informatykę w Procesach Biznesowych?</h1>
   <h2>IwPB</h2>
