@@ -1,4 +1,4 @@
-<link rel="canonical" href="https://www.jakub-js.github.io/IwPB/">
+<link rel="canonical" href="www.jakub-js.github.io/IwPB/">
 
 
 <header>
