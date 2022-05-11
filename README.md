@@ -1,5 +1,14 @@
 <link rel="canonical" href="www.jakub-js.github.io/IwPB/">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CG5PBTC60S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CG5PBTC60S');
+</script>
 
 <header>
   <h1>Gdzie można studiować Informatykę w Procesach Biznesowych?</h1>
