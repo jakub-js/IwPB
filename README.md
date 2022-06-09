@@ -22,6 +22,11 @@
 
 <section>
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ka1yLKEUG5wPXdGE5GMMl-SPtVGre_Unt76T3NCKSD6qng/viewform?embedded=true" width="100%" height="700px"     frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+  
+  <!-- Poczatek kodu trackingowego FreshMail -->
+<img src='https://mail.mailnews.pl/services/tracking/?id=73cimfvw3o'/>
+<!-- Koniec kodu trackingowego FreshMail-->
+  
 </section>
 
 <article>
